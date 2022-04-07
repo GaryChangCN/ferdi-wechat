@@ -1,0 +1,11 @@
+{
+  "id": "weixin",
+  "name": "wechat",
+  "version": "0.0.1",
+  "repository": "https://github.com/GaryChangCN/ferdi-wechat",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": true,
+    "serviceURL": "https://wx.qq.com"
+  }
+}
